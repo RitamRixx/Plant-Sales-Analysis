@@ -3,6 +3,8 @@
 ## Overview
 This Power BI project involves analyzing plant sales data to identify key trends, performance metrics, and actionable insights. The report includes various interactive visualizations that provide a comprehensive view of sales performance.
 
+![Dashboard Screenshot](dashboard.jpg)
+
 ## Objectives
 - Determine the top-performing and bottom-performing plants.
 - Analyze sales trends over specific time periods.
@@ -44,9 +46,6 @@ This Power BI project involves analyzing plant sales data to identify key trends
 - **Product Category Performance**: Determined which product categories contribute the most to total sales.
 - **Regional Insights**: Highlighted regions with consistent sales performance, suggesting potential areas for expansion.
 - **Conversion Rates**: Analyzed the sales funnel to identify stages with the highest drop-off rates.
-
-## Screenshot
-![Dashboard Screenshot](dashboard.jpg)
 
 ## How to Use
 1. Download the `report.pbix` file from this repository.
